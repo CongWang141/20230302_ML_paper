@@ -1,0 +1,227 @@
+\begin{thebibliography}{35}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[Bagnara(2022)]{bagnara2022asset}
+Matteo Bagnara.
+\newblock Asset pricing and machine learning: A critical review.
+\newblock \emph{Journal of Economic Surveys}, 2022.
+
+\bibitem[Baker and Wurgler(2006)]{baker2006investor}
+Malcolm Baker and Jeffrey Wurgler.
+\newblock Investor sentiment and the cross-section of stock returns.
+\newblock \emph{The journal of Finance}, 61\penalty0 (4):\penalty0 1645--1680,
+  2006.
+
+\bibitem[Baker and Wurgler(2007)]{baker2007investor}
+Malcolm Baker and Jeffrey Wurgler.
+\newblock Investor sentiment in the stock market.
+\newblock \emph{Journal of economic perspectives}, 21\penalty0 (2):\penalty0
+  129--151, 2007.
+
+\bibitem[Bryzgalova et~al.(2020)Bryzgalova, Pelger, and
+  Zhu]{bryzgalova2020forest}
+Svetlana Bryzgalova, Markus Pelger, and Jason Zhu.
+\newblock Forest through the trees: Building cross-sections of stock returns.
+\newblock \emph{Available at SSRN 3493458}, 2020.
+
+\bibitem[Bryzgalova et~al.(2022)Bryzgalova, Lerner, Lettau, and
+  Pelger]{bryzgalova2022missing}
+Svetlana Bryzgalova, Sven Lerner, Martin Lettau, and Markus Pelger.
+\newblock Missing financial data.
+\newblock \emph{Available at SSRN 4106794}, 2022.
+
+\bibitem[Chen and Zimmermann(2021)]{chen2021open}
+Andrew~Y Chen and Tom Zimmermann.
+\newblock Open source cross-sectional asset pricing.
+\newblock \emph{Critical Finance Review, Forthcoming}, 2021.
+
+\bibitem[Chen et~al.(2019)Chen, Pelger, and Zhu]{chen2019deep}
+Luyang Chen, Markus Pelger, and Jason Zhu.
+\newblock Deep learning in asset pricing.
+\newblock \emph{arXiv preprint arXiv:1904.00745}, 2019.
+
+\bibitem[Cochrane(2011)]{cochrane2011presidential}
+John~H Cochrane.
+\newblock Presidential address: Discount rates.
+\newblock \emph{The Journal of finance}, 66\penalty0 (4):\penalty0 1047--1108,
+  2011.
+
+\bibitem[Cochrane et~al.(2005)]{cochrane2005financial}
+John~H Cochrane et~al.
+\newblock Financial markets and the real economy.
+\newblock \emph{Foundations and Trends{\textregistered} in Finance}, 1\penalty0
+  (1):\penalty0 1--101, 2005.
+
+\bibitem[Domingos(2012)]{domingos2012few}
+Pedro Domingos.
+\newblock A few useful things to know about machine learning.
+\newblock \emph{Communications of the ACM}, 55\penalty0 (10):\penalty0 78--87,
+  2012.
+
+\bibitem[Drobetz and Otto(2021)]{drobetz2021empirical}
+Wolfgang Drobetz and Tizian Otto.
+\newblock Empirical asset pricing via machine learning: evidence from the
+  european stock market.
+\newblock \emph{Journal of Asset Management}, 22:\penalty0 507--538, 2021.
+
+\bibitem[Fama and French(1992)]{fama1992cross}
+Eugene~F Fama and Kenneth~R French.
+\newblock The cross-section of expected stock returns.
+\newblock \emph{the Journal of Finance}, 47\penalty0 (2):\penalty0 427--465,
+  1992.
+
+\bibitem[Fama and French(1993)]{fama1993common}
+Eugene~F Fama and Kenneth~R French.
+\newblock Common risk factors in the returns on stocks and bonds.
+\newblock \emph{Journal of financial economics}, 33\penalty0 (1):\penalty0
+  3--56, 1993.
+
+\bibitem[Fama and French(2015)]{fama2015five}
+Eugene~F Fama and Kenneth~R French.
+\newblock A five-factor asset pricing model.
+\newblock \emph{Journal of financial economics}, 116\penalty0 (1):\penalty0
+  1--22, 2015.
+
+\bibitem[Freyberger et~al.(2020)Freyberger, Neuhierl, and
+  Weber]{freyberger2020dissecting}
+Joachim Freyberger, Andreas Neuhierl, and Michael Weber.
+\newblock Dissecting characteristics nonparametrically.
+\newblock \emph{The Review of Financial Studies}, 33\penalty0 (5):\penalty0
+  2326--2377, 2020.
+
+\bibitem[Giglio et~al.(2022)Giglio, Kelly, and Xiu]{giglio2022factor}
+Stefano Giglio, Bryan Kelly, and Dacheng Xiu.
+\newblock Factor models, machine learning, and asset pricing.
+\newblock \emph{Annual Review of Financial Economics}, 14:\penalty0 337--368,
+  2022.
+
+\bibitem[Gu et~al.(2019)Gu, Kelly, and Xiu]{gu2019autoencoder}
+Shihao Gu, Bryan~T Kelly, and Dacheng Xiu.
+\newblock Autoencoder asset pricing models.
+\newblock 2019.
+
+\bibitem[Gu et~al.(2020)Gu, Kelly, and Xiu]{gu2020empirical}
+Shihao Gu, Bryan Kelly, and Dacheng Xiu.
+\newblock Empirical asset pricing via machine learning.
+\newblock \emph{The Review of Financial Studies}, 33\penalty0 (5):\penalty0
+  2223--2273, 2020.
+
+\bibitem[Harvey et~al.(2016)Harvey, Liu, and Zhu]{harvey2016and}
+Campbell~R Harvey, Yan Liu, and Heqing Zhu.
+\newblock … and the cross-section of expected returns.
+\newblock \emph{The Review of Financial Studies}, 29\penalty0 (1):\penalty0
+  5--68, 2016.
+
+\bibitem[He et~al.(2015)He, Zhang, Ren, and Sun]{he2015delving}
+Kaiming He, Xiangyu Zhang, Shaoqing Ren, and Jian Sun.
+\newblock Delving deep into rectifiers: Surpassing human-level performance on
+  imagenet classification.
+\newblock In \emph{Proceedings of the IEEE international conference on computer
+  vision}, pages 1026--1034, 2015.
+
+\bibitem[Ioffe and Szegedy(2015)]{ioffe2015batch}
+Sergey Ioffe and Christian Szegedy.
+\newblock Batch normalization: Accelerating deep network training by reducing
+  internal covariate shift.
+\newblock In \emph{International conference on machine learning}, pages
+  448--456. pmlr, 2015.
+
+\bibitem[Kaniel et~al.(2022)Kaniel, Lin, Pelger, and
+  Van~Nieuwerburgh]{kaniel2022machine}
+Ron Kaniel, Zihan Lin, Markus Pelger, and Stijn Van~Nieuwerburgh.
+\newblock Machine-learning the skill of mutual fund managers.
+\newblock Technical report, National Bureau of Economic Research, 2022.
+
+\bibitem[Kelly et~al.(2019)Kelly, Pruitt, and Su]{kelly2019characteristics}
+Bryan~T Kelly, Seth Pruitt, and Yinan Su.
+\newblock Characteristics are covariances: A unified model of risk and return.
+\newblock \emph{Journal of Financial Economics}, 134\penalty0 (3):\penalty0
+  501--524, 2019.
+
+\bibitem[Kozak et~al.(2020)Kozak, Nagel, and Santosh]{kozak2020shrinking}
+Serhiy Kozak, Stefan Nagel, and Shrihari Santosh.
+\newblock Shrinking the cross-section.
+\newblock \emph{Journal of Financial Economics}, 135\penalty0 (2):\penalty0
+  271--292, 2020.
+
+\bibitem[Leippold et~al.(2022)Leippold, Wang, and Zhou]{leippold2022machine}
+Markus Leippold, Qian Wang, and Wenyu Zhou.
+\newblock Machine learning in the chinese stock market.
+\newblock \emph{Journal of Financial Economics}, 145\penalty0 (2):\penalty0
+  64--82, 2022.
+
+\bibitem[Lundberg and Lee(2017{\natexlab{a}})]{NIPS2017_8a20a862}
+Scott~M Lundberg and Su-In Lee.
+\newblock A unified approach to interpreting model predictions.
+\newblock In I.~Guyon, U.~Von Luxburg, S.~Bengio, H.~Wallach, R.~Fergus,
+  S.~Vishwanathan, and R.~Garnett, editors, \emph{Advances in Neural
+  Information Processing Systems}, volume~30. Curran Associates, Inc.,
+  2017{\natexlab{a}}.
+\newblock URL
+  \url{https://proceedings.neurips.cc/paper/2017/file/8a20a8621978632d76c43dfd28b67767-Paper.pdf}.
+
+\bibitem[Lundberg and Lee(2017{\natexlab{b}})]{lundberg2017unified}
+Scott~M Lundberg and Su-In Lee.
+\newblock A unified approach to interpreting model predictions.
+\newblock \emph{Advances in neural information processing systems}, 30,
+  2017{\natexlab{b}}.
+
+\bibitem[Lundberg et~al.(2018)Lundberg, Nair, Vavilala, Horibe, Eisses, Adams,
+  Liston, Low, Newman, Kim, et~al.]{lundberg2018explainable}
+Scott~M Lundberg, Bala Nair, Monica~S Vavilala, Mayumi Horibe, Michael~J
+  Eisses, Trevor Adams, David~E Liston, Daniel King-Wai Low, Shu-Fang Newman,
+  Jerry Kim, et~al.
+\newblock Explainable machine-learning predictions for the prevention of
+  hypoxaemia during surgery.
+\newblock \emph{Nature biomedical engineering}, 2\penalty0 (10):\penalty0
+  749--760, 2018.
+
+\bibitem[Merton(1973)]{merton1973intertemporal}
+Robert~C Merton.
+\newblock An intertemporal capital asset pricing model.
+\newblock \emph{Econometrica: Journal of the Econometric Society}, pages
+  867--887, 1973.
+
+\bibitem[Nair and Hinton(2010)]{nair2010rectified}
+Vinod Nair and Geoffrey~E Hinton.
+\newblock Rectified linear units improve restricted boltzmann machines.
+\newblock In \emph{Proceedings of the 27th international conference on machine
+  learning (ICML-10)}, pages 807--814, 2010.
+
+\bibitem[Sagi and Rokach(2018)]{sagi2018ensemble}
+Omer Sagi and Lior Rokach.
+\newblock Ensemble learning: A survey.
+\newblock \emph{Wiley Interdisciplinary Reviews: Data Mining and Knowledge
+  Discovery}, 8\penalty0 (4):\penalty0 e1249, 2018.
+
+\bibitem[Sharpe(1964)]{sharpe1964capital}
+William~F Sharpe.
+\newblock Capital asset prices: A theory of market equilibrium under conditions
+  of risk.
+\newblock \emph{The journal of finance}, 19\penalty0 (3):\penalty0 425--442,
+  1964.
+
+\bibitem[Smith(2017)]{smith2017cyclical}
+Leslie~N Smith.
+\newblock Cyclical learning rates for training neural networks.
+\newblock In \emph{2017 IEEE winter conference on applications of computer
+  vision (WACV)}, pages 464--472. IEEE, 2017.
+
+\bibitem[Tian and Zhang(2022)]{tian2022comprehensive}
+Yingjie Tian and Yuqi Zhang.
+\newblock A comprehensive survey on regularization strategies in machine
+  learning.
+\newblock \emph{Information Fusion}, 80:\penalty0 146--166, 2022.
+
+\bibitem[Welch and Goyal(2008)]{welch2008comprehensive}
+Ivo Welch and Amit Goyal.
+\newblock A comprehensive look at the empirical performance of equity premium
+  prediction.
+\newblock \emph{The Review of Financial Studies}, 21\penalty0 (4):\penalty0
+  1455--1508, 2008.
+
+\end{thebibliography}

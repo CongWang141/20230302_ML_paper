@@ -1,0 +1,87 @@
+\documentclass[12pt]{article}
+\usepackage{preamble}
+
+\begin{document}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%frond page%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\begin{titlepage}
+\title{Multi-Measure Stock Return Prediction Using Neural Network Models\thanks{abc}}
+\author{Cong Wang\thanks{Sapienza University of Rome}}
+\date{\today}
+\maketitle
+\begin{abstract}
+\noindent This study uses a feed-forward neural network model to predict different measures of stock returns in the US market. The results demonstrate that the model performs similarly well in predicting various measures of stock returns using only stock characteristic variables. However, adding macroeconomic variables significantly enhances the model's predictive accuracy for stock excess returns, in comparison, the improvements for predicting stock abnormal returns are not so significant. Furthermore, the study evaluates the performance of prediction-based portfolios under diverse macroeconomic conditions and finds that they perform better in volatile markets during recession periods. These findings suggest that incorporating macroeconomic data and adjusting portfolios based on macroeconomic conditions can lead to more effective investment strategies.\\
+\vspace{0in}\\
+\noindent\textbf{Keywords:} Neural Network Model, Asset Pricing, Macroeconomic Conditions\\
+\vspace{0in}\\
+\noindent\textbf{JEL Codes:} C4, C5, G1\\
+
+\bigskip
+\end{abstract}
+\setcounter{page}{0}
+\thispagestyle{empty}
+\end{titlepage}
+\pagebreak \newpage
+
+\doublespacing
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\section{Introduction} \label{sec:introduction}
+\input{Introduction.tex}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\section{Literature Review} \label{sec:literature}
+\input{Literature_Review.tex}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\section{Neural Network} \label{sec:neural network}
+\input{Neural_Network.tex}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\section{Data} \label{sec:data}
+\input{Data.tex}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\section{Results} \label{sec:result}
+\input{Result1.tex}
+\input{Result2.tex}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\section{Conclusion} \label{sec:conclusion}
+\input{Conclusion.tex}
+
+\clearpage
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\begingroup
+\setstretch{1.0}
+\bibliographystyle{plainnat}
+\bibliography{citation}
+\endgroup
+
+\clearpage
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%  Appendix  %%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% By default figure number is continuous on appendix. You can change this by the following two lines
+\setcounter{figure}{0}
+\setcounter{table}{0}
+\renewcommand\thetable{\Alph{section}.\arabic{table}}
+\renewcommand\thefigure{\Alph{section}.\arabic{figure}}
+
+\section*{Appendix A. Data} \label{sec:appendixa}
+\addcontentsline{toc}{section}{Appendix A}
+\input{Appendix A.tex}
+
+\section*{Appendix B. Robust Result} \label{sec:appendixb}
+\addcontentsline{toc}{section}{Appendix B}
+\input{Appendix B.tex}
+
+\end{document}

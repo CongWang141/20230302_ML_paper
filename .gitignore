@@ -1,0 +1,3 @@
+data/raw_data/monthly_stock_CRSP_new.csv
+data/dataset.pkl
+data/raw_data/signed_predictors_dl_wide.csv

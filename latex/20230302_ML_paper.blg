@@ -1,0 +1,50 @@
+This is BibTeX, Version 0.99d
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: 20230302_ML_paper.aux
+Reallocating 'name_of_file' (item size: 1) to 9 items.
+The style file: plainnat.bst
+Reallocating 'name_of_file' (item size: 1) to 9 items.
+Database file #1: citation.bib
+Warning--empty journal in gu2019autoencoder
+You've used 35 entries,
+            2773 wiz_defined-function locations,
+            802 strings with 10469 characters,
+and the built_in function-call counts, 16685 in all, are:
+= -- 1530
+> -- 915
+< -- 27
++ -- 310
+- -- 274
+* -- 1341
+:= -- 2535
+add.period$ -- 109
+call.type$ -- 35
+change.case$ -- 193
+chr.to.int$ -- 34
+cite$ -- 71
+duplicate$ -- 764
+empty$ -- 1379
+format.name$ -- 338
+if$ -- 3512
+int.to.chr$ -- 2
+int.to.str$ -- 1
+missing$ -- 34
+newline$ -- 184
+num.names$ -- 142
+pop$ -- 359
+preamble$ -- 1
+purify$ -- 157
+quote$ -- 0
+skip$ -- 598
+stack$ -- 0
+substring$ -- 738
+swap$ -- 88
+text.length$ -- 6
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 385
+warning$ -- 1
+while$ -- 162
+width$ -- 0
+write$ -- 460
+(There was 1 warning)
