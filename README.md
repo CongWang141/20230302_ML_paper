@@ -10,6 +10,7 @@ Contains the paper
 ## src folder
 Contains functions used in the analysis
 
-## Main result can be found in main_result.ipynb
-## Code for model tunning can be found in neural_network_tuning.ipynb
-## Univariate analysis can be found in univariate_ls_portf.ipynb
+## Main analysis
+1. Main result can be found in main_result.ipynb
+2. Code for model tunning can be found in neural_network_tuning.ipynb
+3. Univariate analysis can be found in univariate_ls_portf.ipynb
